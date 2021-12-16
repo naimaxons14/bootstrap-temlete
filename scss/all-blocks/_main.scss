@@ -1,6 +1,30 @@
 .main {
     flex-grow: 1;
 &__heading{
+    padding: 0;
     font-size: 55px;
+    text-align: center;
 }
+.yulduz::before {
+    background-image: url(../../images/icons8-календар.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    width: 28px !important;
+    height: 28px !important;
+    content: '' !important;
+    display: inline-block !important;
+    vertical-align: middle;
+
+ }
+ .kalendar::before {
+    background-image: url(../../images/yulduz.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    width: 28px !important;
+    height: 28px !important;
+    content: '' !important;
+    display: inline-block !important;
+    vertical-align: middle;
+
+ }
 }
