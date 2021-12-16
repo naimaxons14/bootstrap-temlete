@@ -1,0 +1,22 @@
+{
+  "name": "bootsrapjon",
+  "version": "5.1.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naimaxons14/bootstrap-temlete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naimaxons14/bootstrap-temlete/issues"
+  },
+  "homepage": "https://github.com/naimaxons14/bootstrap-temlete#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
